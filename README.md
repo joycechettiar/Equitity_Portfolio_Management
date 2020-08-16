@@ -1,4 +1,4 @@
-# Equitity_Portfolio_Management
+# Equity_Portfolio_Management
 You have a strategy to manage the fund.
 1.	On Jan 02 2018, you split the $5m into 5 $1m, and use them to buy 5 stocks from the 10 stocks. For example, IBM close price was 154.25.𝑊𝑖𝑡ℎ154.25.With1m, you can buy max 6482 shares with cost 999848.5𝑤𝑖𝑡ℎ999848.5with151.5‬ cash left. You decided to spend 1𝑚𝑜𝑛𝑒𝑎𝑐ℎ𝑜𝑓[′𝐼𝐵𝑀′,′𝑀𝑆𝐹𝑇′,′𝐺𝑂𝑂𝐺′,′𝐴𝐴𝑃𝐿′,′𝐴𝑀𝑍𝑁′]𝑟𝑒𝑠𝑝𝑒𝑐𝑡𝑖𝑣𝑒𝑙𝑦𝑎𝑛𝑑𝑘𝑒𝑒𝑝𝑡ℎ𝑒𝑟𝑒𝑠𝑡𝑐𝑎𝑠ℎ𝑖𝑛𝑡𝑜𝑎𝑧𝑒𝑟𝑜−𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑐𝑎𝑠ℎ𝑎𝑐𝑐𝑜𝑢𝑛𝑡.𝑂𝑛𝐽𝑎𝑛022018,𝑦𝑜𝑢𝑟𝑚𝑎𝑟𝑘𝑡𝑜𝑚𝑎𝑟𝑘𝑒𝑡𝑣𝑎𝑙𝑢𝑒(𝑀𝑇𝑀)𝑖𝑠1moneachof[′IBM′,′MSFT′,′GOOG′,′AAPL′,′AMZN′]respectivelyandkeeptherestcashintoazero−interestcashaccount.OnJan022018,yourmarktomarketvalue(MTM)is5m if combining all stocks value and cash. Your holdings of stocks and cach account is your portfolio.
  𝑀𝑇𝑀𝑡=𝑐𝑎𝑠ℎ𝑡+∑𝑘=15𝑆ℎ𝑎𝑟𝑒𝑠𝑡𝑘×𝐶𝑙𝑜𝑠𝑒𝑃𝑟𝑖𝑐𝑒𝑡𝑘  MTMt=casht+∑k=15Shareskt×ClosePricekt 
